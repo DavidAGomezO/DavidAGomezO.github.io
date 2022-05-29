@@ -5,6 +5,8 @@ Soy estuduante de Matamáticas de la Escuela Colombiana de Ingeniería Julio Gar
 En esta página publicaré algunos de mis trabajos.
 
 Puede comunicarse conmigo usando este [correo](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Adavid.gomez-o%40mail.escuelaing.edu.co)
+
+(1) La conjetura de Goldbach (David Gómez y Daniel Pérez) [Link](https://github.com/Dago-26/Dago-26.github.io/blob/main/La%20Conjetura%20de%20Goldbach.pdf)
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Dago-26/Dago-26.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
