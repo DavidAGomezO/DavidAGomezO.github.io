@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Esta es la página de David Gómez
+
+Soy estuduante de Matamáticas de la Escuela Colombiana de Ingeniería Julio Garavito. 
+
+En esta página publicaré algunos de mis trabajos.
+
+Puede comunicarse conmigo usando este [correo](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Adavid.gomez-o%40mail.escuelaing.edu.co)
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Dago-26/Dago-26.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
