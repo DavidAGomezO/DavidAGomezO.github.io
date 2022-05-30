@@ -1,6 +1,6 @@
 ## Esta es la página de David Gómez
 
-Soy estuduante de Matamáticas de la Escuela Colombiana de Ingeniería Julio Garavito. 
+Soy estuduante de Matemáticas de la Escuela Colombiana de Ingeniería Julio Garavito. 
 
 En esta página publicaré algunos de mis trabajos.
 
